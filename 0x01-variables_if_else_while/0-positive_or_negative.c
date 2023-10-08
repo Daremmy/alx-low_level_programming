@@ -1,15 +1,14 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/* greater, equal or less than nothing */
 
 /**
  * main - entry point
- * 
+ *
  * declear variable n
  * assign random value for n
  * set loop conditions and print statements
- * 
+ *
  * return: always 0 (success)
  */
 int main(void)
