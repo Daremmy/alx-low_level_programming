@@ -1,6 +1,6 @@
 /**
- * 0-reset_to_98.c - Updates an int value using its pointer
- * @*n: The pointer used to update the int value
+ * 0-reset_to_98 - Updates an int value using its pointer
+ * @n: The int whose value would be updated
  *
  * Changes the value of an int stored in an adress to 98 from the pointer.
  * Return: void
