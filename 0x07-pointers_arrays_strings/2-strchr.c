@@ -2,10 +2,9 @@
 
 /**
  * _strchr - locates a character in a string
- * @s: string to check for character
- * @c: character to locate
- *
- * Return: A pointer to the first occurance of c
+ * @s: the string
+ * @c: the character
+ * Return: a pointer to the first occurrence of c
  */
 
 char *_strchr(char *s, char c)
